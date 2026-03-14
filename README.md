@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ronashi!
+# � Welcome! I'm Code43
 
 ## 🚀 About Me
 
@@ -20,6 +20,8 @@ I'm a passionate **Software Developer** with expertise in **Web Development, Mac
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django%20REST-FF1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -62,9 +64,9 @@ I'm a passionate **Software Developer** with expertise in **Web Development, Mac
 ## 📚 Learning Journey
 
 Currently learning:
-- 📖 [Technology/Skill 1]
-- 📖 [Technology/Skill 2]
-- 📖 [Technology/Skill 3]
+- 📖 **LangChain** - Building applications with LLMs
+- 📖 **Kubernetes (K8s)** - Container orchestration at scale
+- 📖 **Next.js** - Full-stack React framework
 
 ---
 
@@ -84,10 +86,6 @@ Currently learning:
 ---
 
 ⭐ **Star this repo if you found it helpful!**
-
----
-
-*Last updated: [Current Date]*
 
 ---
 
