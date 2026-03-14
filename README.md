@@ -40,18 +40,6 @@ I'm a passionate **Software Developer** with expertise in **Web Development, Mac
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronashi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronashi&theme=radical&hide_border=true" alt="GitHub Streak">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronashi&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
@@ -61,32 +49,7 @@ I'm a passionate **Software Developer** with expertise in **Web Development, Mac
 
 ---
 
-## 🌟 Featured Projects
 
-### 📌 [Project Name 1]
-**[Brief Description]** - [Technologies Used]
-- 🔗 [Live Demo Link]
-- 📝 [Project Details]
-
-### 📌 [Project Name 2]
-**[Brief Description]** - [Technologies Used]
-- 🔗 [Live Demo Link]
-- 📝 [Project Details]
-
-### 📌 [Project Name 3]
-**[Brief Description]** - [Technologies Used]
-- 🔗 [Live Demo Link]
-- 📝 [Project Details]
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronashi&theme=radical&hide_border=true" alt="Activity Graph">
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
@@ -101,21 +64,7 @@ I'm a passionate **Software Developer** with expertise in **Web Development, Mac
 
 ---
 
-## 📝 Visitor Count
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ronashi/count.svg" alt="Visitor Count">
-</div>
-
----
-
-## 🎯 Current Goals
-
-- 🎯 [Goal 1]
-- 🎯 [Goal 2]
-- 🎯 [Goal 3]
-
----
 
 ## 📚 Learning Journey
 
@@ -132,17 +81,6 @@ Currently learning:
 
 ---
 
-## 📊 GitHub Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronashi&theme=radical&hide_border=true" alt="Profile Summary">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ronashi&theme=radical&hide_border=true" alt="Repos Per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronashi&theme=radical&hide_border=true" alt="Most Commit Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronashi&theme=radical&hide_border=true" alt="Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ronashi&theme=radical&hide_border=true" alt="Productive Time">
-</div>
-
----
 
 ## 🙏 Thanks for Visiting!
 
